@@ -1,13 +1,10 @@
 import React from 'react';
-
-
-import Cpp from '../assets/C++.png';
 import CSharp from '../assets/csharp.png';
-import SQL from '../assets/Sql.png';
-import Azure from '../assets/azure.png';
 import HTML from '../assets/html.png';
 import CSS from '../assets/css.png';
 import JavaScript from '../assets/javascript.png';
+import Java from '../assets/java-logo-1.png';
+import Postgre from '../assets/postgreLogo.png';
 
 const Skills = () => {
     return (
@@ -20,8 +17,8 @@ const Skills = () => {
             </div>
             <div className='w-full grid grid-cols-2 sm:grid-cols-2 gap-4 text-center py-8'>
             <div className='shadow-md shadow-[#bcbfc2] hover:scale-110 duration-500'>
-                  <img className= ' w-20 mx-auto' src={Cpp} alt="HTML icon"  />
-                  <p className='my-4'>C++</p>
+                  <img className= ' w-20 mx-auto' src={Java} alt="HTML icon"  />
+                  <p className='my-4'>Java</p>
               </div>
               <div className='shadow-md shadow-[#e8d4d3] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
@@ -36,8 +33,8 @@ const Skills = () => {
                     <p className='my-4'>CSS</p>
                 </div>
               <div className='shadow-md shadow-[#bcbfc2] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={SQL} alt="HTML icon" />
-                  <p className='my-4'>Microsoft SQL Studio</p>
+                  <img className='w-20 mx-auto' src={Postgre} alt="HTML icon" />
+                  <p className='my-4'>PostgreSQL</p>
               </div>
                 <div className='shadow-md shadow-[#e8d4d3] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={JavaScript} alt="HTML icon" />
