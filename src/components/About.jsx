@@ -13,9 +13,10 @@ const About = () => {
     </div>
     <div></div>
     </div>
-    <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 '>
+    {/* <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 '> */}
+    <div className='abosolute max-w-[1000px] w-full grid grid-cols-2 gap-20'>
       <div className='max-w-[1000px] w-full grid '>
-      <img src={Photo} alt='About Me' style={{ height: '800px', width: '1000px'  }}  />
+      <img src= {Photo} alt='About Me' style={{ height: '500px', width: '500px', style:'absolute'  }}  />
       </div>
       <div>
         <p className=' flex flex-col justify-center items-center w-full h-full '>I am passionate about building excellent software that improves
