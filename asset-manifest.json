@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/react-gh-pages/static/css/main.0dd6ef89.css",
-    "main.js": "/portfolio/react-gh-pages/static/js/main.c15a00f9.js",
-    "static/media/photo.png": "/portfolio/react-gh-pages/static/media/photo.3b048cbd096945ebe4cb.png",
-    "static/media/ConsumptionTracker.jpg": "/portfolio/react-gh-pages/static/media/ConsumptionTracker.5d8ef5704728c97d6563.jpg",
-    "static/media/YodaApp.jpg": "/portfolio/react-gh-pages/static/media/YodaApp.f32e2f01bf439982e23e.jpg",
-    "static/media/postgreLogo.png": "/portfolio/react-gh-pages/static/media/postgreLogo.c8891cc79d21bc263a06.png",
-    "static/media/csharp.png": "/portfolio/react-gh-pages/static/media/csharp.69dbbb7d5aacf535b930.png",
-    "static/media/java-logo-1.png": "/portfolio/react-gh-pages/static/media/java-logo-1.fdabd4e11f1235e4e8e0.png",
-    "static/media/Screenshottetris.png": "/portfolio/react-gh-pages/static/media/Screenshottetris.684f4b5d0d31605b446f.png",
-    "static/media/logo.png": "/portfolio/react-gh-pages/static/media/logo.6ddb525d66ce4c7733a8.png",
-    "static/media/html.png": "/portfolio/react-gh-pages/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/portfolio/react-gh-pages/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/portfolio/react-gh-pages/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/portfolio/react-gh-pages/index.html",
-    "main.0dd6ef89.css.map": "/portfolio/react-gh-pages/static/css/main.0dd6ef89.css.map",
-    "main.c15a00f9.js.map": "/portfolio/react-gh-pages/static/js/main.c15a00f9.js.map"
+    "main.css": "/portfolio/static/css/main.0dd6ef89.css",
+    "main.js": "/portfolio/static/js/main.570490b6.js",
+    "static/media/photo.png": "/portfolio/static/media/photo.3b048cbd096945ebe4cb.png",
+    "static/media/ConsumptionTracker.jpg": "/portfolio/static/media/ConsumptionTracker.5d8ef5704728c97d6563.jpg",
+    "static/media/YodaApp.jpg": "/portfolio/static/media/YodaApp.f32e2f01bf439982e23e.jpg",
+    "static/media/postgreLogo.png": "/portfolio/static/media/postgreLogo.c8891cc79d21bc263a06.png",
+    "static/media/csharp.png": "/portfolio/static/media/csharp.69dbbb7d5aacf535b930.png",
+    "static/media/java-logo-1.png": "/portfolio/static/media/java-logo-1.fdabd4e11f1235e4e8e0.png",
+    "static/media/Screenshottetris.png": "/portfolio/static/media/Screenshottetris.684f4b5d0d31605b446f.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.6ddb525d66ce4c7733a8.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.0dd6ef89.css.map": "/portfolio/static/css/main.0dd6ef89.css.map",
+    "main.570490b6.js.map": "/portfolio/static/js/main.570490b6.js.map"
   },
   "entrypoints": [
     "static/css/main.0dd6ef89.css",
-    "static/js/main.c15a00f9.js"
+    "static/js/main.570490b6.js"
   ]
 }
