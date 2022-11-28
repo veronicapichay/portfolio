@@ -40,7 +40,7 @@ const Projects = () => {
                     Demo
                   </button>
                 </a> */}
-                <a href= "https://github.com/veronicapichay/Tetris" target="_blank">
+                <a href="https://github.com/veronicapichay/Tetris" target="_blank">
                   <button className='text-center rounded-lg px-3 py-2 m-1 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -60,8 +60,8 @@ const Projects = () => {
                 </span>
                 <div className='pt-1 text-center'>
                   <span className='text-center text-xs font-thin text-white tracking-wider justify-center'>
-                  An MVC framework web application that utilizes a web API to CRUD data in a spatial 
-                  database, which exposes the water usage of each neighborhood in a choropleth map.
+                    An MVC framework web application that utilizes a web API to CRUD data in a spatial
+                    database, which exposes the water usage of each neighborhood in a choropleth map.
                   </span>
                 </div>
                 {/* <a href='/'>
@@ -69,7 +69,7 @@ const Projects = () => {
                     Demo
                   </button>
                 </a> */}
-                <a href= "https://github.com/veronicapichay/fluffy-octo-engine" target="_blank">
+                <a href="https://github.com/veronicapichay/WaterConsumption" target="_blank">
                   <button className='text-center rounded-lg px-3 py-2 m-1 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -89,7 +89,7 @@ const Projects = () => {
                 </span>
                 <div className='pt-1 text-center'>
                   <span className='text-center text-xs font-thin text-white tracking-wider justify-center'>
-                  I worked in a team of three to build a desktop application game that mimics a memory-matching game.
+                    I worked in a team of three to build a desktop application game that mimics a memory-matching game.
                   </span>
                 </div>
                 {/* <a href='/'>
@@ -97,7 +97,7 @@ const Projects = () => {
                     Demo
                   </button>
                 </a> */}
-                <a href= "https://github.com/MEoverMIND/BabyYodaEat" target="_blank">
+                <a href="https://github.com/MEoverMIND/BabyYodaEat" target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
